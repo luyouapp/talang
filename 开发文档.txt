@@ -1,0 +1,6 @@
+1、所有页面自行切图，切图或图片命名均以自己名字缩写命名：（名字+页面缩写+图片名称）
+			如  yjr_index_banner.png
+2、文件命名也是自己名字缩写。 如：yjr_index.html   yjr_index.css  yjr_index.js
+3、主文件夹公用css   img   js   
+4、html页面单独放在外面
+5、页面上传时间，每个人上传时间不同，（一会儿商量）
